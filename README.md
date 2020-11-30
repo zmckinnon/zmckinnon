@@ -18,22 +18,26 @@ I prefer lots of collaboration. Usually this means 1on1s, team meetings and pair
 
 ## What Motivates Me
 
-
+I want to improve everything around me. I am a perfectionist, but I realize that perfection is impossible so I try to improve everyday. It is important for me to understand the big picture so that I know the direction I should be going.
 
 ## What Demotivates Me
 
-
+Doing things for the sake of doing things is a waste of time. Everything should have a purpose.
 
 ## My Values (and what I value in others)
 
+**Intentionality** - I admire people who prioritize things and find that they tend to be more successful.
 
+**???** - 
 
 ## My Blind Spots
 
-
+I tend to get defensive when I feel like me or my team is attacked. This happens because I am extremely passionate about my team and it is my nature to fight for what I believe.
 
 ## My Pet Peeves
 
-
+People who put themselves above the team.
 
 ## Other
+
+I value feedback so feel free to solicit or give feedback from me whenever.
