@@ -1,3 +1,7 @@
+# My README
+
+I read [a great article](https://medium.com/better-programming/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) recently about personal user guides/READMEs and I thought I'd give it a try.
+
 ## About Me
 
 I am from Alabama where I recieved a Bachelors in Software Engineering from Auburn University. Outside of work, I play as much basketball as I can and I enjoy spending time with my wife and two boys. I have recently been trying to learn React.
@@ -10,7 +14,7 @@ I try to stay connected as much as possible so I will likely see your message or
 
 ## Preferred Working Style
 
-
+I prefer lots of collaboration. Usually this means 1on1s, team meetings and pairing. I usually only need a quiet environment when I am writing.
 
 ## What Motivates Me
 
