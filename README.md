@@ -14,6 +14,10 @@ For quick questions, hit me up on Slack and I will likely get back to you ASAP. 
 
 I prefer lots of collaboration. Usually this means 1on1s, team meetings and pairing. I usually only need a quiet environment when I am writing.  I use my calendar to keep things balanced, if it isn't on my calendar, I might miss it.
 
+I try not to push my preconceived notions of what "works" on people. Different situations call for different solutions. This is the essence of engineering.
+
+If you are afraid to ask tough questions or say unpopular opinions, then you aren't doing what is best. I am committed to creating an environment where everyone is comfortable speaking their mind.
+
 ## What Motivates Me
 
 I want to improve everything around me. I am a perfectionist, but I realize that perfection is impossible so I try to improve everyday. It is important for me to understand the big picture so that I know the direction I should be going.
@@ -27,6 +31,8 @@ Doing things for the sake of doing things is a waste of time. Everything should 
 **Intentionality** - I admire people who prioritize things and find that they tend to be more successful.
 
 **Understanding** - Seeking first to understand is a critical piece of my successs.
+
+**Team Work** - This is how you make the whole greater than the sum of the parts.
 
 ## My Blind Spots
 
