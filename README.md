@@ -4,17 +4,15 @@ I read [a great article](https://medium.com/better-programming/personal-user-man
 
 ## About Me
 
-I am from Alabama where I recieved a Bachelors in Software Engineering from Auburn University. Outside of work, I play as much basketball as I can and I enjoy spending time with my wife and two boys. I have recently been trying to learn React.
+I am from Alabama where I recieved a Bachelor of Software Engineering from Auburn University. Outside of work, I play as much basketball as I can and I enjoy spending time with my wife and two boys. I have recently been trying to improve my React skills.
 
 ## How to Contact Me
 
-For quick questions, hit me up on Slack and I can probably get back to you. If a longer discussion is warranted, put something on my calendar and I prefer a video conference or to grab a coffee.
-
-I try to stay connected as much as possible so I will likely see your message or invite ASAP. Even if I don't act on it immediately.
+For quick questions, hit me up on Slack and I will likely get back to you ASAP. If a longer discussion is warranted, put something on my calendar and I prefer a video conference or to grab a coffee or go for a walk.
 
 ## Preferred Working Style
 
-I prefer lots of collaboration. Usually this means 1on1s, team meetings and pairing. I usually only need a quiet environment when I am writing.
+I prefer lots of collaboration. Usually this means 1on1s, team meetings and pairing. I usually only need a quiet environment when I am writing.  I use my calendar to keep things balanced, if it isn't on my calendar, I might miss it.
 
 ## What Motivates Me
 
@@ -28,7 +26,7 @@ Doing things for the sake of doing things is a waste of time. Everything should 
 
 **Intentionality** - I admire people who prioritize things and find that they tend to be more successful.
 
-**???** - 
+**Understanding** - Seeking first to understand is a critical piece of my successs.
 
 ## My Blind Spots
 
