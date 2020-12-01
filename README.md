@@ -45,3 +45,5 @@ People who put themselves above the team.
 ## Other
 
 I value feedback so feel free to solicit or give feedback from me whenever.
+
+This README is a work in progress and I will continue to updated it as I learn new things.
