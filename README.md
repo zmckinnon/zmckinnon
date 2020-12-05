@@ -1,7 +1,3 @@
-# My README
-
-I read [a great article](https://medium.com/better-programming/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) recently about personal user guides/READMEs and I thought I'd give it a try.
-
 ## About Me
 
 I am from Alabama where I recieved a Bachelor of Software Engineering from Auburn University. Outside of work, I play as much basketball as I can and I enjoy spending time with my wife and two boys. I have recently been trying to improve my React skills.
