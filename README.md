@@ -4,7 +4,7 @@ I am from Alabama where I recieved a Bachelor of Software Engineering from Aubur
 
 ## How to Contact Me
 
-For quick questions, hit me up on Slack and I will likely get back to you ASAP. If a longer discussion is warranted, put something on my calendar and I prefer a video conference or to grab a coffee or go for a walk.
+For quick questions, hit me up on Discord(ZachMac#6959) and I will likely get back to you ASAP. If a longer discussion is warranted, put something on my calendar and I prefer a video conference or to grab a coffee or go for a walk.
 
 ## Preferred Working Style
 
